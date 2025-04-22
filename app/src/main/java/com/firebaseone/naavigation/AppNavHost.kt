@@ -9,6 +9,10 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.firebaseone.ui.theme.Screens.home.HomeScreen
 import com.firebaseone.ui.theme.Screens.login.LoginScreen
+import com.firebaseone.ui.theme.Screens.products.AddProductsScreen
+import com.firebaseone.ui.theme.Screens.products.UpdateProductsScreen
+import com.firebaseone.ui.theme.Screens.products.ViewProductsScreen
+import com.firebaseone.ui.theme.Screens.products.ViewUploadsScreen
 import com.firebaseone.ui.theme.Screens.register.RegisterScreen
 
 

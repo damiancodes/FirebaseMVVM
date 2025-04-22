@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "486056310843",
-    "project_id": "fir-mvvm-e8a33",
-    "storage_bucket": "fir-mvvm-e8a33.firebasestorage.app"
+    "project_number": "279822337086",
+    "project_id": "fir-mvvm1",
+    "storage_bucket": "fir-mvvm1.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:486056310843:android:3dffa846e3114bc4cb441e",
+        "mobilesdk_app_id": "1:279822337086:android:fe091051d17d07fa623d6f",
         "android_client_info": {
           "package_name": "com.firebaseone"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBl6LUhtIiwTbWtRnaEqHTV9xppkFTT7rc"
+          "current_key": "AIzaSyDXhGs7ip0XYcpAfmuLvqbXcbhAfOmlUhM"
         }
       ],
       "services": {
